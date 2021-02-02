@@ -1,0 +1,9 @@
+body{
+    font-family: 'Franklin Gothic Medium';
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+}
+h1, h2{
+    font-weight: 500;
+}
